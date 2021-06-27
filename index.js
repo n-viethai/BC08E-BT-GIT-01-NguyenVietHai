@@ -19,3 +19,7 @@ let checkTask = () => {
 let testCompleted = () => {
     console.log('testCompleted');
 };
+
+let doneTask = () => {
+    console.log('doneTask');
+};
